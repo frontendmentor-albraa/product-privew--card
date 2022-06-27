@@ -615,6 +615,10 @@ video {
   width: 300px;
 }
 
+.min-w-\[300px\]{
+  min-width: 300px;
+}
+
 .flex-col{
   flex-direction: column;
 }
